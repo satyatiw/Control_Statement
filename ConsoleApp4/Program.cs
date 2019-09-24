@@ -1,8 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+//Removing the unwanted code for memory save.(Optimizing Code)
+
+
+using System;
+
 
 namespace Control_Statement
 {
